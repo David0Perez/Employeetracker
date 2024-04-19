@@ -1,3 +1,4 @@
+require('dotenv').config();
 const db = require('./db/connection');
 const express = require('express');
 const startInquirer = require('./lib/database');
