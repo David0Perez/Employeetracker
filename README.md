@@ -73,10 +73,10 @@ Being the user who's running the application, he'll have access to either grab i
 - MySQL
 
 ## Mock Up
-[Descriptive Video]
+[Descriptive Video]https://www.loom.com/share/b7ba3a6c48464f689a13184ffb9c7e4d?sid=7de04bb8-8bf3-44cd-9675-4679c8c233cc
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). I was running into this error.
 
 ## Author
 [David Perez](https://github.com/David0Perez)
