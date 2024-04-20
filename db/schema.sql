@@ -26,3 +26,4 @@ CREATE TABLE employee (
     CONSTAINT fk_department FOREIGN KEY (role_id) REFERENCES roles(id) ON DELETE SET NULL,
     CONSTAINT fk_department FOREIGN KEY (manager_id) REFERENCES employee(id) ON DELETE SET NULL
 );
+
